@@ -19,6 +19,9 @@ cd ..
 cd sangria-spray-json
 sbt +publishLocal
 cd ..
+cd sangria-circe
+sbt +publishLocal
+cd ..
 cd sangria
 sbt +publishLocal
 cd ..

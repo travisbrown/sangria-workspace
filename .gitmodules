@@ -22,3 +22,6 @@
 [submodule "sangria-streaming-api"]
 	path = sangria-streaming-api
 	url = git@github.com:sangria-graphql/sangria-streaming-api.git
+[submodule "sangria-circe"]
+	path = sangria-circe
+	url = git@github.com:sangria-graphql/sangria-circe.git
