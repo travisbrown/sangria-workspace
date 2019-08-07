@@ -1,27 +1,27 @@
 [submodule "macro-visit"]
 	path = macro-visit
-	url = git@github.com:sangria-graphql/macro-visit.git
+	url = git@github.com:travisbrown/macro-visit.git
 [submodule "sangria-marshalling-api"]
 	path = sangria-marshalling-api
-	url = git@github.com:sangria-graphql/sangria-marshalling-api.git
+	url = git@github.com:travisbrown/sangria-marshalling-api.git
 [submodule "sangria-marshalling-testkit"]
 	path = sangria-marshalling-testkit
-	url = git@github.com:sangria-graphql/sangria-marshalling-testkit.git
+	url = git@github.com:travisbrown/sangria-marshalling-testkit.git
 [submodule "sangria-argonaut"]
 	path = sangria-argonaut
-	url = git@github.com:sangria-graphql/sangria-argonaut.git
+	url = git@github.com:travisbrown/sangria-argonaut.git
 [submodule "sangria-ion"]
 	path = sangria-ion
-	url = git@github.com:sangria-graphql/sangria-ion.git
+	url = git@github.com:travisbrown/sangria-ion.git
 [submodule "sangria-spray-json"]
 	path = sangria-spray-json
-	url = git@github.com:sangria-graphql/sangria-spray-json.git
+	url = git@github.com:travisbrown/sangria-spray-json.git
 [submodule "sangria"]
 	path = sangria
-	url = git@github.com:sangria-graphql/sangria.git
+	url = git@github.com:travisbrown/sangria.git
 [submodule "sangria-streaming-api"]
 	path = sangria-streaming-api
-	url = git@github.com:sangria-graphql/sangria-streaming-api.git
+	url = git@github.com:travisbrown/sangria-streaming-api.git
 [submodule "sangria-circe"]
 	path = sangria-circe
-	url = git@github.com:sangria-graphql/sangria-circe.git
+	url = git@github.com:travisbrown/sangria-circe.git
