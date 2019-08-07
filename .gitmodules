@@ -1,0 +1,24 @@
+[submodule "macro-visit"]
+	path = macro-visit
+	url = git@github.com:sangria-graphql/macro-visit.git
+[submodule "sangria-marshalling-api"]
+	path = sangria-marshalling-api
+	url = git@github.com:sangria-graphql/sangria-marshalling-api.git
+[submodule "sangria-marshalling-testkit"]
+	path = sangria-marshalling-testkit
+	url = git@github.com:sangria-graphql/sangria-marshalling-testkit.git
+[submodule "sangria-argonaut"]
+	path = sangria-argonaut
+	url = git@github.com:sangria-graphql/sangria-argonaut.git
+[submodule "sangria-ion"]
+	path = sangria-ion
+	url = git@github.com:sangria-graphql/sangria-ion.git
+[submodule "sangria-spray-json"]
+	path = sangria-spray-json
+	url = git@github.com:sangria-graphql/sangria-spray-json.git
+[submodule "sangria"]
+	path = sangria
+	url = git@github.com:sangria-graphql/sangria.git
+[submodule "sangria-streaming-api"]
+	path = sangria-streaming-api
+	url = git@github.com:sangria-graphql/sangria-streaming-api.git
